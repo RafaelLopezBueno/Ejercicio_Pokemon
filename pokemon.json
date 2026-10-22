@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bulbasaur",
+    "tipo": "PLANTA",
+    "nivel": 12,
+    "ps": 45
+  },
+  {
+    "id": 2,
+    "nombre": "Charmander",
+    "tipo": "FUEGO",
+    "nivel": 14,
+    "ps": 39
+  },
+  {
+    "id": 3,
+    "nombre": "Squirtle",
+    "tipo": "AGUA",
+    "nivel": 13,
+    "ps": 44
+  },
+  {
+    "id": 4,
+    "nombre": "Pikachu",
+    "tipo": "ELECTRICO",
+    "nivel": 25,
+    "ps": 35
+  },
+  {
+    "id": 5,
+    "nombre": "Snorlax",
+    "tipo": "NORMAL",
+    "nivel": 22,
+    "ps": 160
+  },
+  {
+    "id": 6,
+    "nombre": "Psyduck",
+    "tipo": "AGUA",
+    "nivel": 15,
+    "ps": 50
+  },
+  {
+    "id": 7,
+    "nombre": "Vulpix",
+    "tipo": "FUEGO",
+    "nivel": 16,
+    "ps": 38
+  },
+  {
+    "id": 8,
+    "nombre": "Geodude",
+    "tipo": "ROCA",
+    "nivel": 18,
+    "ps": 40
+  },
+  {
+    "id": 9,
+    "nombre": "Abra",
+    "tipo": "PSIQUICO",
+    "nivel": 10,
+    "ps": 43
+  },
+  {
+    "id": 10,
+    "nombre": "Meowth",
+    "tipo": "NORMAL",
+    "nivel": 17,
+    "ps": 40
+  },
+  {
+    "id": 11,
+    "nombre": "Poliwag",
+    "tipo": "AGUA",
+    "nivel": 11,
+    "ps": 40
+  },
+  {
+    "id": 12,
+    "nombre": "Growlithe",
+    "tipo": "FUEGO",
+    "nivel": 20,
+    "ps": 55
+  },
+  {
+    "id": 13,
+    "nombre": "Oddish",
+    "tipo": "PLANTA",
+    "nivel": 14,
+    "ps": 45
+  },
+  {
+    "id": 14,
+    "nombre": "Voltorb",
+    "tipo": "ELECTRICO",
+    "nivel": 19,
+    "ps": 40
+  },
+  {
+    "id": 15,
+    "nombre": "Onix",
+    "tipo": "ROCA",
+    "nivel": 24,
+    "ps": 35
+  },
+  {
+    "id": 16,
+    "nombre": "Magikarp",
+    "tipo": "AGUA",
+    "nivel": 5,
+    "ps": 30
+  },
+  {
+    "id": 17,
+    "nombre": "Rattata",
+    "tipo": "NORMAL",
+    "nivel": 13,
+    "ps": 45
+  },
+  {
+    "id": 18,
+    "nombre": "Drowzee",
+    "tipo": "PSIQUICO",
+    "nivel": 21,
+    "ps": 60
+  },
+  {
+    "id": 19,
+    "nombre": "Eevee",
+    "tipo": "NORMAL",
+    "nivel": 23,
+    "ps": 55
+  },
+  {
+    "id": 20,
+    "nombre": "Magnemite",
+    "tipo": "ELECTRICO",
+    "nivel": 23,
+    "ps": 25
+  }
+]
